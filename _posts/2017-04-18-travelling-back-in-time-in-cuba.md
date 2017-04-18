@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travelling back in time in cuba
-img: lost-7.jpg
+img: bandera-cuba-havana-che.jpg
 ---
 
 Bheema is a theme suitabel for image heavy journal kind of websites. 
