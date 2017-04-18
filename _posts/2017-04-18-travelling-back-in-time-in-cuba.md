@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travelling back in time in cuba
+title: Travelling back in time in Cuba
 img: bandera-cuba-havana-che.jpg
 ---
 <p>
