@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas in Germany
-img: lost-5.jpg
+img: christmas-market-in-germany.jpg
 ---
 
 It has been really interesting to see how christmas is lived here in Germany. One of the most common activities of the season is going to the Christmas Markets to drink <em>Glühwein</em> (Mulled wine ), which is a typical drink made with red wine along with other spices and is served hot or warm.
