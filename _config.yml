@@ -4,7 +4,7 @@ title: Nomad Quarter #Keep it short
 email: your@email.com
 
 
-baseurl: 'http://www.nomadquarter.com/'
+baseurl: 'www.nomadquarter.com'
 
 sass:
  style: compressed
