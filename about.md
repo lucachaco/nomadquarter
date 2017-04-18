@@ -2,7 +2,7 @@
 layout: post
 title: About
 permalink: /about/
-img: bheema-2.PNG
+img: cabras-trinidad-cuba.PNG
 ---
 
 Hello, I am Luis.
