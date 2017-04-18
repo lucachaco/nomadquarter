@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanks AIESEC Costa Rica and AIESEC Germany
-img: lost-10.jpg
+img: park-in-berlin.jpg
 ---
 Now that I'm back home in Costa Rica after my stay in Germany and look backwards I feel really thankful with such a great organisation.
 
