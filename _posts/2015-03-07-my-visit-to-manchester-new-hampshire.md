@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My visit to Manchester, New Hampshire
-img: lost-9.jpg
+img: manchester-new-hampshire.jpg
 ---
 
 I came here for work for two months in winter. Well you can imagine how it went.
