@@ -2,7 +2,7 @@
 layout: post
 title: About
 permalink: /about/
-img: cabras-trinidad-cuba.PNG
+img: cabras-trinidad-cuba.jpg
 ---
 
 Hello, I am Luis.
