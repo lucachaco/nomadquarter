@@ -3,10 +3,10 @@ layout: post
 title: Travelling back in time in Cuba
 img: bandera-cuba-havana-che.jpg
 ---
-<p>
-    I just came back from Cuba and want to write right aways since I still have everything fresh in my mind. Everything
-    in the trip was perfect except both delayed flights with Cubana de Aviación airline.
-</p>
+
+I just came back from Cuba and want to write right aways since I still have everything fresh in my mind. Everything
+in the trip was perfect except both delayed flights with Cubana de Aviación airline.
+
 
 <p>
     Once in Cuba I went through migration quite quickly but when I was about to step out of the airport a security agent
