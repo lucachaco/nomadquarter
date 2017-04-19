@@ -63,7 +63,7 @@ in the trip was perfect except both delayed flights with Cubana de Aviación air
     out I had to wait for everybody to check in to try to find any remaining tickets. Thankfully I got a ticket so I got
     really happy. It was just 25 USD for a 7 hours ride. Trinidad is more than 300 kms away from Havana. In the bus I
     met two Costa Ricans who told they had attended a performance in the theater and that it was worth. So I decided to
-    do that when I got back to Havana. In the bust I mostly sleep and enjoyed the scenery. I noticed it was really dry
+    do that when I got back to Havana. In the bus I mostly slept and enjoyed the scenery. I noticed it was really dry
     and flat but as we got closer to the coast I was amazed by the turquoise water. Since It was april it was normal to
     see everything dray since they don't get much rain during this time of the year. I couldn't wait to get to trinidad
     and hopefully a nearby beach. But I will write about that in my next post.
