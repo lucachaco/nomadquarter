@@ -65,7 +65,7 @@ in the trip was perfect except both delayed flights with Cubana de Aviación air
     met two Costa Ricans who told they had attended a performance in the theater and that it was worth. So I decided to
     do that when I got back to Havana. In the bus I mostly slept and enjoyed the scenery. I noticed it was really dry
     and flat but as we got closer to the coast I was amazed by the turquoise water. Since It was april it was normal to
-    see everything dray since they don't get much rain during this time of the year. I couldn't wait to get to trinidad
+    see everything dry since they don't get much rain during this time of the year. I couldn't wait to get to trinidad
     and hopefully a nearby beach. But I will write about that in my next post.
 </p>
 
