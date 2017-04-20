@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colonial town and beach at Trinidad, Cuba"
-img: trinidad-street.jpg
+img: roofs-trinidad-cuba.jpg
 published_date: "2017-04-20T00:00:00-06:00"
 ---
 
