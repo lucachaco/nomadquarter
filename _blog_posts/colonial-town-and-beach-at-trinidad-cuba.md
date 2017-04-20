@@ -5,10 +5,10 @@ img: trinidad-street.jpg
 published_date: "2017-04-20T00:00:00-06:00"
 ---
 
-    After more than 300 kms and around 6 or 7 hours bus ride, I finally arrived to Trinidad. This place is usually among
-    the top 3 destinations in Cuba according to the research I did online. I was excited to finally be here. At the bus
-    terminal there were many taxis offering rides but Trinidad is quite small so using my map it was easy to find the
-    Casa Particular I had booked through airbnb.
+After more than 300 kms and around 6 or 7 hours bus ride, I finally arrived to Trinidad. This place is usually among
+the top 3 destinations in Cuba according to the research I did online. I was excited to finally be here. At the bus
+terminal there were many taxis offering rides but Trinidad is quite small so using my map it was easy to find the
+Casa Particular I had booked through airbnb.
 
 
 <p>

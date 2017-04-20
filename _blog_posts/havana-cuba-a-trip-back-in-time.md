@@ -84,7 +84,7 @@ Everything in the trip was perfect except both delayed flights with Cubana de Av
 
 
 <p>
-    I wrote about trinidad on its own post which you can find here. [LINK DEL POST DE TRINIDAD]
+    I wrote about Trinidad on its own post which you can find <a href="/blog/colonial-town-and-beach-at-trinidad-cuba/">here</a>.
 </p>
 
 
