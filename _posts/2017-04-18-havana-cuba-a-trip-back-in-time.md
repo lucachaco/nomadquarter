@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Havana, Cuba: A trip back in time
+title: "Havana, Cuba: A trip back in time"
 img: bandera-cuba-havana-che.jpg
 ---
 
