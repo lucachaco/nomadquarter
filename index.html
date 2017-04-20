@@ -6,20 +6,22 @@ quote-by: Aldous Huxley
 
 ---
 
+{% assign sorted_posts = (site.blog_posts | sort: 'published_date') | reverse %}
+
 <div class="row first-row">
-    <a href="{{site.baseurl}}{{site.posts[0].url}}">
+    <a href="{{site.baseurl}}{{sorted_posts[0].url}}">
         <div class="eight columns news-piece news-piece-1 border"
-             style="background-image: url({{site.baseurl}}/img/{{site.posts[0].img}})">
-            <p class="news-title">{{site.posts[0].title}}</p>
-            <p class="news-exp">{{site.posts[0].excerpt | strip_html | truncate: 80 }}</p>
+             style="background-image: url({{site.baseurl}}/img/{{sorted_posts[0].img}})">
+            <p class="news-title">{{sorted_posts[0].title}}</p>
+            <p class="news-exp">{{sorted_posts[0].excerpt | strip_html | truncate: 80 }}</p>
         </div>
     </a>
 
-    <a href="{{site.baseurl}}{{site.posts[1].url}}">
+    <a href="{{site.baseurl}}{{sorted_posts[1].url}}">
         <div class="four columns news-piece news-piece-1"
-             style="background-image: url({{site.baseurl}}/img/{{site.posts[1].img}});">
-            <p class="news-title">{{site.posts[1].title}}</p>
-            <p class="news-exp">{{site.posts[1].excerpt | strip_html | truncate: 80 }}</p>
+             style="background-image: url({{site.baseurl}}/img/{{sorted_posts[1].img}});">
+            <p class="news-title">{{sorted_posts[1].title}}</p>
+            <p class="news-exp">{{sorted_posts[1].excerpt | strip_html | truncate: 80 }}</p>
         </div>
     </a>
 
@@ -37,19 +39,19 @@ quote-by: Aldous Huxley
 
 <div class="row row-border">
 
-    <a href="{{site.baseurl}}{{site.posts[2].url}}">
+    <a href="{{site.baseurl}}{{sorted_posts[2].url}}">
         <div class="four columns news-piece news-piece-2 border-2"
-             style="background-image: url({{site.baseurl}}/img/{{site.posts[2].img}});">
-            <p class="news-title">{{site.posts[2].title}}</p>
-            <p class="news-exp">{{site.posts[2].excerpt | strip_html | truncate: 80 }}</p>
+             style="background-image: url({{site.baseurl}}/img/{{sorted_posts[2].img}});">
+            <p class="news-title">{{sorted_posts[2].title}}</p>
+            <p class="news-exp">{{sorted_posts[2].excerpt | strip_html | truncate: 80 }}</p>
         </div>
     </a>
 
-    <a href="{{site.baseurl}}{{site.posts[3].url}}">
+    <a href="{{site.baseurl}}{{sorted_posts[3].url}}">
         <div class="eight columns news-piece news-piece-2 border"
-             style="background-image: url({{site.baseurl}}/img/{{site.posts[3].img}});">
-            <p class="news-title">{{site.posts[3].title}}</p>
-            <p class="news-exp">{{site.posts[3].excerpt | strip_html | truncate: 80 }}</p>
+             style="background-image: url({{site.baseurl}}/img/{{sorted_posts[3].img}});">
+            <p class="news-title">{{sorted_posts[3].title}}</p>
+            <p class="news-exp">{{sorted_posts[3].excerpt | strip_html | truncate: 80 }}</p>
         </div>
     </a>
 
