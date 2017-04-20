@@ -2,6 +2,7 @@
 layout: post
 title: My visit to Manchester, New Hampshire
 img: manchester-new-hampshire.jpg
+published_date: "2015-03-07T00:00:00-06:00"
 ---
 
 I came here for work for two months in winter. Well you can imagine how it went.

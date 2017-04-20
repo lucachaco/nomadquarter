@@ -2,6 +2,7 @@
 layout: post
 title: "Havana, Cuba: A trip back in time"
 img: bandera-cuba-havana-che.jpg
+published_date: "2017-04-18T00:00:00-06:00"
 ---
 
 I just came back from Cuba and want to write about it right aways since I still have everything fresh in my head.
