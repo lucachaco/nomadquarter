@@ -48,8 +48,16 @@ quote-by: Aldous Huxley
     </a>
 
     <a href="{{site.baseurl}}{{sorted_posts[3].url}}">
-        <div class="eight columns news-piece news-piece-2 border"
+        <div class="four columns news-piece news-piece-2 border"
              style="background-image: url({{site.baseurl}}/img/{{sorted_posts[3].img}});">
+            <p class="news-title">{{sorted_posts[3].title}}</p>
+            <p class="news-exp">{{sorted_posts[3].excerpt | strip_html | truncate: 80 }}</p>
+        </div>
+    </a>
+
+    <a href="{{site.baseurl}}{{sorted_posts[4].url}}">
+        <div class="four columns news-piece news-piece-2 border"
+             style="background-image: url({{site.baseurl}}/img/{{sorted_posts[4].img}});">
             <p class="news-title">{{sorted_posts[3].title}}</p>
             <p class="news-exp">{{sorted_posts[3].excerpt | strip_html | truncate: 80 }}</p>
         </div>
