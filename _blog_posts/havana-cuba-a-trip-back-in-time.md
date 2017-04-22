@@ -8,7 +8,7 @@ published_date: "2017-04-18T00:00:00-06:00"
 I just came back from Cuba and want to write about it right aways since I still have everything fresh in my head.
 Everything in the trip was perfect except both delayed flights with Cubana de Aviación airline.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sW8co7-7p-E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sW8co7-7p-E" frameborder="0" allowfullscreen></iframe>
 
 <p>
     Once in Cuba I went through migration quite quickly but when I was about to step out of the airport a security agent
